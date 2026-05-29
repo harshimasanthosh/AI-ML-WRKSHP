@@ -1,0 +1,9 @@
+﻿Machine,Temperature,Vibration,Failure
+1,High,High,Yes
+2,High,Low,Yes
+3,Medium,High,Yes
+4,Low,Low,No
+5,Low,Medium,No
+6,Medium,Low,No
+7,High,Medium,Yes
+8,Low,High,No
